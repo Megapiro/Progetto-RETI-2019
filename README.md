@@ -1,4 +1,4 @@
-# Prova Finale di Reti Logiche - A.A 2018-2019
+# Prova Finale di Reti Logiche - a.a. 2018-2019
 Scopo del progetto è quello di implementare un componente hardware descritto in VHDL in grado di risolvere un problema che consiste nel determinare l'insieme di punti più vicini a quello dato in esame secondo la definizione di [Manhattan Distance](https://en.wikipedia.org/wiki/Taxicab_geometry).
 
 ## Definizione Del Problema
