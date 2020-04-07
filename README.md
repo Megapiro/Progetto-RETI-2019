@@ -1,7 +1,7 @@
 # Prova Finale di Reti Logiche - a.a. 2018-2019
 Scopo del progetto è quello di implementare un componente hardware descritto in VHDL in grado di risolvere un problema che consiste nel determinare l'insieme di punti più vicini a quello dato in esame secondo la definizione di [Manhattan Distance](https://en.wikipedia.org/wiki/Taxicab_geometry).
 
-## Definizione Del Problema
+## Definizione del Problema
 Viene dato uno spazio quadrato di dimensione 256x256 e le posizioni di 8 punti all'interno di questo, chiamati __centroidi__, che saranno quelli di cui calcolare la distanza una volta conosciuta anche la posizione del punto in esame. Considerando ulteriori dettagli relativi alla gestione dei punti ([specifiche complete](https://github.com/Megapiro/Progetto-RETI-2019/blob/master/Specifications/Specifica%20_PFRL.pdf)), l'implementazione del componente è stata realizzata interfacciandosi a una __memoria__ contenente tutte le informazioni relative al problema e utilizzando appositi __segnali__.
 
 ## Implementazione
